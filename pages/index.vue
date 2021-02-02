@@ -21,7 +21,7 @@
               <div class="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                 <div class="rounded-md shadow">
                   <a href="#" class="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base leading-6 font-medium rounded-md text-white bg-teal-800 hover:bg-teal-500 focus:outline-none focus:border-teal-800 focus:shadow-outline-teal transition duration-150 ease-in-out md:py-4 md:text-lg md:px-10">
-                    подробнее
+                    Заказать услугу
                   </a>
                 </div>
 <!--                <div class="mt-3 sm:mt-0 sm:ml-3">-->
@@ -40,9 +40,60 @@
       </div>
     </div>
 
-<!--    -->
 
-<!---->
+    <!-- This example requires Tailwind CSS v2.0+ -->
+    <div class="bg-gray-50 pt-12 sm:pt-16">
+      <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <div class="max-w-4xl mx-auto text-center">
+          <h2 class="text-3xl font-extrabold text-gray-900 sm:text-4xl">
+            Опыт работы в цифрах
+          </h2>
+          <p class="mt-3 text-xl text-gray-500 sm:mt-4">
+            Нам доверяют 10 федеральных компаний, 74 государственных учреждения, 42 региональных лидера и производственных компаний и более 1000 юридических лиц.
+          </p>
+        </div>
+      </div>
+      <div class="mt-10 pb-12 bg-white sm:pb-16">
+        <div class="relative">
+          <div class="absolute inset-0 h-1/2 bg-gray-50"></div>
+          <div class="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+            <div class="max-w-4xl mx-auto">
+              <dl class="rounded-lg bg-white shadow-lg sm:grid sm:grid-cols-3">
+                <div class="flex flex-col border-b border-gray-100 p-6 text-center sm:border-0 sm:border-r">
+                  <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                    успешно реализованных проектов
+                  </dt>
+                  <dd class="order-1 text-5xl font-extrabold text-teal-800">
+                    1381
+                  </dd>
+                </div>
+                <div class="flex flex-col border-t border-b border-gray-100 p-6 text-center sm:border-0 sm:border-l sm:border-r">
+                  <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                    выполненных заказов раньше срока
+                  </dt>
+                  <dd class="order-1 text-5xl font-extrabold text-teal-800">
+                    78%
+                  </dd>
+                </div>
+                <div class="flex flex-col border-t border-gray-100 p-6 text-center sm:border-0 sm:border-l">
+                  <dt class="order-2 mt-2 text-lg leading-6 font-medium text-gray-500">
+                    бригад монтажников в 80 городах
+                  </dt>
+                  <dd class="order-1 text-5xl font-extrabold text-teal-800">
+                    345
+                  </dd>
+                </div>
+              </dl>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <!---->
     <div class="py-12 bg-white my-10">
       <div class="max-w-screen-xl mx-auto px-4 sm:px-6 lg:px-8">
         <div class="lg:text-center">
@@ -51,7 +102,7 @@
             Доверьте работу профессионалу
           </h2>
           <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
-            Lorem ipsum dolor sit amet consect adipisicing elit. Possimus magnam voluptatum cupiditate veritatis in accusamus quisquam.
+            В нашей команде, только квалифицированные специалисты <br> с опытом работы более 10 лет.
           </p>
         </div>
 
@@ -68,9 +119,9 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h4 class="text-lg leading-6 font-medium text-gray-900">Качество</h4>
+                  <h4 class="text-lg leading-6 font-medium text-gray-900">Гарантии</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                    ТМЦ «Сигнал» несет гарантии на весь срок эксплуатации оборудования.
                   </p>
                 </div>
               </div>
@@ -86,9 +137,10 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h4 class="text-lg leading-6 font-medium text-gray-900">Сроки</h4>
+                  <h4 class="text-lg leading-6 font-medium text-gray-900">Оборудование</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                    Охранные системы состоят из устройств, передающих сигнал по
+                    GSM/GPRS-каналам, интернету, телефонной линии и радиоканалу.
                   </p>
                 </div>
               </div>
@@ -104,9 +156,10 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h4 class="text-lg leading-6 font-medium text-gray-900">Цена</h4>
+                  <h4 class="text-lg leading-6 font-medium text-gray-900">Опыт</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                    11 лет работы. За годы работы мы зарекомендовали себя как надежные
+                    партнеры.
                   </p>
                 </div>
               </div>
@@ -124,7 +177,7 @@
                 <div class="ml-4">
                   <h4 class="text-lg leading-6 font-medium text-gray-900">Поддержка</h4>
                   <p class="mt-2 text-base leading-6 text-gray-500">
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                    Круглосуточная техническая и юридическая поддержка наших клиентов.
                   </p>
                 </div>
               </div>
@@ -133,77 +186,158 @@
         </div>
       </div>
     </div>
-<!---->
-    <section class="text-gray-500 bg-gradient-to-b from-teal-900 to bg-teal-500 body-font">
-      <div class="container px-5 py-24 mx-auto">
-        <div class="flex flex-col text-center w-full mb-20">
-          <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Комплексный подход к решению вопроса</h1>
-          <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>
+
+
+
+
+    <!-- This example requires Tailwind CSS v2.0+ -->
+    <div class="relative bg-white ">
+      <div class="lg:mx-auto lg:max-w-7xl lg:px-8 lg:grid lg:grid-cols-2 lg:gap-24 lg:items-start">
+        <div class="relative sm:py-16 lg:py-0">
+          <div aria-hidden="true" class="hidden sm:block lg:absolute lg:inset-y-0 lg:right-0 lg:w-screen">
+            <div class="absolute inset-y-0 right-1/2 w-full bg-gray-50 rounded-r-3xl lg:right-72"></div>
+            <svg class="absolute top-8 left-1/2 -ml-3 lg:-right-8 lg:left-auto lg:top-12" width="404" height="392" fill="none" viewBox="0 0 404 392">
+              <defs>
+                <pattern id="02f20b47-fd69-4224-a62a-4c9de5c763f7" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+                  <rect x="0" y="0" width="4" height="4" class="text-gray-200" fill="currentColor" />
+                </pattern>
+              </defs>
+              <rect width="404" height="392" fill="url(#02f20b47-fd69-4224-a62a-4c9de5c763f7)" />
+            </svg>
+          </div>
+          <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0 lg:max-w-none lg:py-20">
+            <!-- Testimonial card-->
+            <div class="relative pt-64 pb-10 rounded-2xl shadow-xl overflow-hidden">
+              <img class="absolute inset-0 h-full w-full object-cover" src="https://avatars.mds.yandex.net/get-altay/492546/2a0000015eb422366e7268bb61256d9c34f3/XXL" alt="">
+              <div class="absolute inset-0 bg-teal-500" style="mix-blend-mode: multiply;"></div>
+              <div class="absolute inset-0 bg-gradient-to-t from-teal-600 via-teal-600 opacity-90"></div>
+              <div class="relative px-8">
+                <div>
+                  <img class="h-12" src="https://tailwindui.com/img/logos/workcation.svg?color=white" alt="Workcation">
+                </div>
+                <blockquote class="mt-8">
+                  <div class="relative text-lg font-medium text-white md:flex-grow">
+                    <svg class="absolute top-0 left-0 transform -translate-x-3 -translate-y-2 h-8 w-8 text-teal-400" fill="currentColor" viewBox="0 0 32 32" aria-hidden="true">
+                      <path d="M9.352 4C4.456 7.456 1 13.12 1 19.36c0 5.088 3.072 8.064 6.624 8.064 3.36 0 5.856-2.688 5.856-5.856 0-3.168-2.208-5.472-5.088-5.472-.576 0-1.344.096-1.536.192.48-3.264 3.552-7.104 6.624-9.024L9.352 4zm16.512 0c-4.8 3.456-8.256 9.12-8.256 15.36 0 5.088 3.072 8.064 6.624 8.064 3.264 0 5.856-2.688 5.856-5.856 0-3.168-2.304-5.472-5.184-5.472-.576 0-1.248.096-1.44.192.48-3.264 3.456-7.104 6.528-9.024L25.864 4z" />
+                    </svg>
+                    <p class="relative">
+                      Tincidunt integer commodo, cursus etiam aliquam neque, et. Consectetur pretium in volutpat, diam. Montes, magna cursus nulla feugiat dignissim id lobortis amet.
+                    </p>
+                  </div>
+
+                  <footer class="mt-4">
+                    <p class="text-base font-semibold text-teal-200">Иван Иванович Иванов, <br> директор ООО ТМЦ «Сигнал»</p>
+                  </footer>
+                </blockquote>
+              </div>
+            </div>
+          </div>
         </div>
-        <div class="flex flex-wrap -m-4">
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://avatars.mds.yandex.net/get-altay/492546/2a0000015eb422366e7268bb61256d9c34f3/XXL">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">УСТАНОВКА</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Устанавливаем системы видеонаблюдения «под ключ»</h3>
-<!--                <p class="leading-relaxed">Установка систем видеонаблюдения «под ключ».</p>-->
-              </div>
+
+        <div class="relative mx-auto max-w-md px-4 sm:max-w-3xl sm:px-6 lg:px-0">
+          <!-- Content area -->
+          <div class="pt-12 sm:pt-16 lg:pt-20">
+            <h2 class="text-3xl text-gray-900 font-extrabold tracking-tight sm:text-4xl">
+             О нашей компании
+            </h2>
+            <div class="mt-6 text-gray-500 space-y-6">
+              <p class="text-base leading-7">
+                ООО «ТМЦ «Сигнал» ведет деятельность с 2009 года, оказывает услуги на выполнение работ
+                любой сложности организацией специализирующийся на пожарно-охранных системах сигнализации.
+                Газовых и воднораспыленных систем пожаротушения, системы видеонаблюдения, проектирование и
+                монтаж структурированной кабельной системы, кабельные и электромонтажные системы.
+                Наша организация может выступать как:
+              </p>
+              <ul>
+                <li class="py-2">Проектировщик: осуществить разработку проектной сметной документации любой
+                  сложности с соблюдением всех нормативных документов по указанным видам работ;</li>
+                <li class="py-2">Генеральный подрядчик: выполнит монтаж систем любой сложности и произведет контроль
+                  выполнения работ;</li>
+                <li class="py-2">Технический консультант: окажет квалифицированную консультацию, разработает
+                  техническое задание и предложит варианты исполнения поставленной задачи. </li>
+              </ul>
             </div>
           </div>
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://cdn1.ozone.ru/multimedia/1021842898.jpg">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">КОМПЛЕКТЫ</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Предлагаем готовые комплекты видеонаблюдения</h3>
-<!--                <p class="leading-relaxed">готовые комплекты видеонаблюдения.</p>-->
-              </div>
-            </div>
-          </div>
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://kak-sdelano.ru/assets/uploads/2018/12/videonabludenie-chastnogo-doma-1.jpg">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">РАЗРАБОТКА</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Разрабатываем индивидуальные проекты под задачу</h3>
-<!--                <p class="leading-relaxed">разработку индивидуальных проектов.</p>-->
-              </div>
-            </div>
-          </div>
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://stroy13.ru/image/catalog/category/obsluzhivanie-sistem-videonablyudeniya.jpg">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">ТЕХОБСЛУЖИВАНИЕ</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Осуществляем своевременное техобслуживание оборудования</h3>
-<!--                <p class="leading-relaxed">своевременное техобслуживание.</p>-->
-              </div>
-            </div>
-          </div>
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="http://ohrana40.ru/wp-content/uploads/2018/07/xremont-videonabljudenija.jpg">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">РЕМОНТ</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Ремонтируем технику любой сложности</h3>
-<!--                <p class="leading-relaxed">ремонт любой сложности.</p>-->
-              </div>
-            </div>
-          </div>
-          <div class="lg:w-1/3 sm:w-1/2 p-4">
-            <div class="flex relative">
-              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="http://videomsc.ru/assets/images/blog/videomsc-26.jpg">
-              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">
-                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">КАЧЕСТВО</h2>
-                <h3 class="title-font text-lg font-medium text-white mb-3">Предлагаем только первоклассное оборудование</h3>
-<!--                <p class="leading-relaxed">первоклассное оборудование.</p>-->
-              </div>
-            </div>
-          </div>
+
         </div>
       </div>
-    </section>
+    </div>
+
+
+
+
+
+    <!---->
+<!--    <section class="text-gray-500 bg-gradient-to-b from-teal-900 to bg-teal-500 body-font">-->
+<!--      <div class="container px-5 py-24 mx-auto">-->
+<!--        <div class="flex flex-col text-center w-full mb-20">-->
+<!--          <h1 class="sm:text-3xl text-2xl font-medium title-font mb-4 text-white">Комплексный подход к решению вопроса</h1>-->
+<!--          <p class="lg:w-2/3 mx-auto leading-relaxed text-base">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table. Franzen you probably haven't heard of them man bun deep jianbing selfies heirloom.</p>-->
+<!--        </div>-->
+<!--        <div class="flex flex-wrap -m-4">-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://avatars.mds.yandex.net/get-altay/492546/2a0000015eb422366e7268bb61256d9c34f3/XXL">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">УСТАНОВКА</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Устанавливаем системы видеонаблюдения «под ключ»</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">Установка систем видеонаблюдения «под ключ».</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://cdn1.ozone.ru/multimedia/1021842898.jpg">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">КОМПЛЕКТЫ</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Предлагаем готовые комплекты видеонаблюдения</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">готовые комплекты видеонаблюдения.</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://kak-sdelano.ru/assets/uploads/2018/12/videonabludenie-chastnogo-doma-1.jpg">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">РАЗРАБОТКА</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Разрабатываем индивидуальные проекты под задачу</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">разработку индивидуальных проектов.</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="https://stroy13.ru/image/catalog/category/obsluzhivanie-sistem-videonablyudeniya.jpg">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">ТЕХОБСЛУЖИВАНИЕ</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Осуществляем своевременное техобслуживание оборудования</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">своевременное техобслуживание.</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="http://ohrana40.ru/wp-content/uploads/2018/07/xremont-videonabljudenija.jpg">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">РЕМОНТ</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Ремонтируем технику любой сложности</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">ремонт любой сложности.</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--          <div class="lg:w-1/3 sm:w-1/2 p-4">-->
+<!--            <div class="flex relative">-->
+<!--              <img alt="gallery" class="absolute inset-0 w-full h-full object-cover object-center border-4 border-teal-700" src="http://videomsc.ru/assets/images/blog/videomsc-26.jpg">-->
+<!--              <div class="px-8 py-10 relative z-10 w-full border-4 border-teal-700 bg-gray-900 opacity-0 hover:opacity-100">-->
+<!--                <h2 class="tracking-widest text-sm title-font font-medium text-teal-800 mb-1">КАЧЕСТВО</h2>-->
+<!--                <h3 class="title-font text-lg font-medium text-white mb-3">Предлагаем только первоклассное оборудование</h3>-->
+<!--&lt;!&ndash;                <p class="leading-relaxed">первоклассное оборудование.</p>&ndash;&gt;-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </div>-->
+<!--      </div>-->
+<!--    </section>-->
 
     <!---->
     <div class="mt-20 max-w-7xl mx-auto sm:px-6 lg:px-8">

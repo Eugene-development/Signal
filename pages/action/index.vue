@@ -1,6 +1,6 @@
 <template>
   <div>
-    <div class="p-10 max-w-7xl mx-auto sm:px-6 lg:px-8 " style="background-image: url(https://image.jimcdn.com/app/cms/image/transf/none/path/s87bed42c60944655/backgroundarea/i522b5ac9d6eb9536/version/1518789319/image.jpg)">
+    <div class="p-10" style="background-image: url(https://image.jimcdn.com/app/cms/image/transf/none/path/s87bed42c60944655/backgroundarea/i522b5ac9d6eb9536/version/1518789319/image.jpg)">
 <!--    <div class="p-10 max-w-7xl mx-auto sm:px-6 lg:px-8 " style="background-image: url(https://www.kovifabrics.com/img/products/A7456.JPG)">-->
       <div class="flex flex-col text-center w-full">
         <h1 class=" text-5xl font-medium title-font text-white">Акции</h1>

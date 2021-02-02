@@ -14,24 +14,24 @@
               </h4>
               <ul class="mt-4 space-y-4">
                 <li>
-                  <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
+                  <NuxtLink to="/" class="text-base leading-6 text-gray-300 hover:text-white">
                     Главная
-                  </a>
+                  </NuxtLink>
                 </li>
                 <li>
-                  <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
+                  <NuxtLink to="/action" class="text-base leading-6 text-gray-300 hover:text-white">
                     Акции
-                  </a>
+                  </NuxtLink>
                 </li>
                 <li>
-                  <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
+                  <NuxtLink to="/information" class="text-base leading-6 text-gray-300 hover:text-white">
                     Информация
-                  </a>
+                  </NuxtLink>
                 </li>
                 <li>
-                  <a href="#" class="text-base leading-6 text-gray-300 hover:text-white">
+                  <NuxtLink to="/contact" class="text-base leading-6 text-gray-300 hover:text-white">
                     Контакты
-                  </a>
+                  </NuxtLink>
                 </li>
               </ul>
             </div>
