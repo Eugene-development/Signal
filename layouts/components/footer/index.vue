@@ -97,13 +97,21 @@
               </h4>
               <ul class="mt-4 space-y-4">
                 <li>
-                  <a href="http://localhost:3050/admin/login"
+<!--                  <a href="http://localhost:3050/admin/login"-->
+<!--                     class="text-base leading-6 text-gray-300 hover:text-white">-->
+<!--                    Вход-->
+<!--                  </a>-->
+                  <a href="http://23.111.204.148:3050/admin/login"
                      class="text-base leading-6 text-gray-300 hover:text-white">
                     Вход
                   </a>
                 </li>
                 <li>
-                  <a href="http://localhost:3050/admin/registration"
+<!--                  <a href="http://localhost:3050/admin/registration"-->
+<!--                     class="text-base leading-6 text-gray-300 hover:text-white">-->
+<!--                    Регистрация-->
+<!--                  </a>-->
+                  <a href="http://23.111.204.148:3050/admin/registration"
                      class="text-base leading-6 text-gray-300 hover:text-white">
                     Регистрация
                   </a>

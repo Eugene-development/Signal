@@ -2,7 +2,8 @@
 export default {
   mode: 'universal',
   server: {
-    port: 3900
+    port: 3900,
+    host: '0.0.0.0' // default: localhost
   },
 
   /*
