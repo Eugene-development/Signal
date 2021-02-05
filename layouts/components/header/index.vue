@@ -31,7 +31,7 @@
             @click="change_visibleCatalog"
             type="button"
             class="group text-gray-400 inline-flex items-center space-x-2 text-base leading-6 font-medium hover:text-gray-100 focus:outline-none focus:text-gray-100 transition ease-in-out duration-150">
-            <span>Каталог</span>
+            <span>Услуги</span>
             <!--
               Heroicon name: chevron-down
               Item active: "text-gray-600", Item inactive: "text-gray-400"

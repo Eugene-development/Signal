@@ -119,20 +119,20 @@
           <!-- This example requires Tailwind CSS v2.0+ -->
           <div>
             <dl class="mt-2 grid grid-cols-1 gap-5 sm:grid-cols-2">
-              <div class="bg-teal-700 overflow-hidden shadow rounded-lg">
+              <div class="bg-white overflow-hidden shadow rounded-lg">
                 <div class="px-4 py-5 sm:p-6">
-                  <dt class="text-sm font-medium text-white text-base truncate">
+                  <dt class="text-sm font-medium text-gray-700 text-base truncate">
                     <strong>По вопросам установки видеонаблюдения и систем контроля доступа</strong>
                   </dt>
                   <dd class="mt-1 text-3xl font-semibold text-gray-900">
                     <div class="mt-6 flex">
                       <div class="flex-shrink-0">
                         <!-- Heroicon name: outline/mail -->
-                        <svg class="h-10 w-10 text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <svg class="h-10 w-10 text-gray-700" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                         </svg>
                       </div>
-                      <div class="ml-3 text-white text-large">
+                      <div class="ml-3 text-gray-700 text-large">
                         <p>
                           27-dom@mail.ru
                         </p>
@@ -141,7 +141,7 @@
                   </dd>
                 </div>
               </div>
-              <div class="bg-teal-700 overflow-hidden shadow rounded-lg">
+              <div class="bg-gray-900 overflow-hidden shadow rounded-lg">
                 <div class="px-4 py-5 sm:p-6">
                   <dt class="text-sm font-medium text-white text-base truncate">
                     <strong>Для заявок по ремонту и обслуживанию оборудования</strong>
