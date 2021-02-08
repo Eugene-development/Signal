@@ -8,7 +8,7 @@
           </svg>
 
 
-          <main class="h-50 pt-10 mb-20 mx-auto max-w-screen-xl px-4  sm:px-6  lg:px-8 ">
+          <main class="h-50 pt-10 mb-20 mx-auto max-w-screen-xl px-4 sm:px-6 lg:px-8">
             <div class="mt-10 sm:text-center lg:text-left">
               <h1 class="mb-10 font-sans text-4xl tracking-tight leading-10 font-semibold text-gray-900 sm:text-6xl sm:leading-none md:text-6xl">
                 Защищаем вашу
@@ -36,8 +36,12 @@
       </div>
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-             src="/foto/montazh2.jpg" alt="">
+             src="https://test20212021.s3.eu-central-1.amazonaws.com/foldername/photo.jpeg" alt="">
       </div>
+<!--      <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">-->
+<!--        <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"-->
+<!--             src="/foto/montazh2.jpg" alt="">-->
+<!--      </div>-->
     </div>
 
 
