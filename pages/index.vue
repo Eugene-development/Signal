@@ -36,12 +36,8 @@
       </div>
       <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">
         <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"
-             src="https://test20212021.s3.eu-central-1.amazonaws.com/foldername/photo.jpeg" alt="">
+             src="/foto/montazh2.jpg" alt="">
       </div>
-<!--      <div class="lg:absolute lg:inset-y-0 lg:right-0 lg:w-1/2">-->
-<!--        <img class="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full"-->
-<!--             src="/foto/montazh2.jpg" alt="">-->
-<!--      </div>-->
     </div>
 
 
@@ -363,80 +359,80 @@
         <div class="flex flex-wrap -m-4">
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/prod/ozero/ip-kam/nc-d10-480x480-3c4.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/3472142.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
               <p class="mt-1">$16.00</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/prod/ozero/ip-kam/nc-b20-480x480-17b.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/532924001_ipr-513-10-izveschatel.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
               <p class="mt-1">$21.15</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/prod/ip-videoreg/bsp-nvr-0401-03-480x480-467.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/GV17.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
               <p class="mt-1">$12.00</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/shlagbaumi-256x-528.png">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Астра-5.jpeg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
               <p class="mt-1">$18.40</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/prod/ip-camera/bsp/2mp-dom-2.8-480x480-a28.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/ИО%20102-20%20А2П.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
               <p class="mt-1">$16.00</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/tantos/557-0-480x480-f42.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Маяк%20-12%20КПМ.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
               <p class="mt-1">$21.15</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/selina-m_1-480x480-c4c.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/РПБ-12.jpeg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
               <p class="mt-1">$12.00</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="https://signal52.ru/assets/cache/images/prod/ip-camera/satvision/sni-311-480x480-292.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Шорох-2.jpg">
             </a>
             <div class="mt-4">
-              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">CATEGORY</h3>
+              <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
               <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
               <p class="mt-1">$18.40</p>
             </div>
@@ -465,6 +461,21 @@
           </div>
           <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
             <img class="h-22" src="https://signal52.ru/assets/images/partners/021.jpg" alt="Workcation">
+          </div>
+          <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
+            <img class="h-22" src="/labels/Аякс.jpg" alt="Workcation">
+          </div>
+          <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
+            <img class="h-22" src="/labels/Новигард.jpg" alt="Workcation">
+          </div>
+          <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
+            <img class="h-22" src="/labels/Ритм.jpg" alt="Workcation">
+          </div>
+          <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
+            <img class="h-22" src="/labels/Сфинкс.jpg" alt="Workcation">
+          </div>
+          <div class="col-span-2 flex justify-center md:col-span-3 lg:col-span-1">
+            <img class="h-22" src="/labels/Трикдис.jpg" alt="Workcation">
           </div>
         </div>
       </div>

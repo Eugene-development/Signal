@@ -79,7 +79,7 @@
                         Видеонаблюдение
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Get a better understanding of where your traffic is coming from.
+                        Подберите комплект либо заказите услугу мастера н адом по приобретению
                       </p>
                     </div>
                   </a>
@@ -95,7 +95,7 @@
                         Видеодомофоны
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Speak directly to your customers in a more meaningful way.
+                        Приобретите комплектующие либо закажите комплекс оборудования под ключ
                       </p>
                     </div>
                   </a>
@@ -111,7 +111,7 @@
                         Контроль доступа
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Your customers data will be safe and secure.
+                        Консультация, доставка и пуско-наладка системы СКУД
                       </p>
                     </div>
                   </a>
@@ -124,10 +124,10 @@
                     </div>
                     <div class="space-y-1">
                       <p class="text-base leading-6 font-medium text-gray-900">
-                        Видеонаблюдение для бизнеса
+                        Системы безопасности
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Connect with third-party tools that you’re already using.
+                        Подберите интересующую систему с доставкой и монтажем
                       </p>
                     </div>
                   </a>
