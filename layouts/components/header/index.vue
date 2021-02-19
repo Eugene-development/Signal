@@ -79,7 +79,7 @@
                         Видеонаблюдение
                       </p>
                       <p class="text-sm leading-5 text-gray-400">
-                        Подберите комплект либо заказите услугу мастера н адом по приобретению
+                        Подберите комплект либо закажите услугу мастера надом по приобретению
                       </p>
                     </div>
                   </a>
@@ -131,38 +131,38 @@
                       </p>
                     </div>
                   </a>
-                  <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
-                    <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-teal-800 hover:bg-teal-500 text-white sm:h-12 sm:w-12">
-                      <!-- Heroicon name: refresh -->
-                      <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
-                      </svg>
-                    </div>
-                    <div class="space-y-1">
-                      <p class="text-base leading-6 font-medium text-gray-900">
-                        Подъездный домофон
-                      </p>
-                      <p class="text-sm leading-5 text-gray-400">
-                        Build strategic funnels that will drive your customers to convert
-                      </p>
-                    </div>
-                  </a>
-                  <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">
-                    <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-teal-800 hover:bg-teal-500 text-white sm:h-12 sm:w-12">
-                      <!-- Heroicon name: document-report -->
-                      <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                      </svg>
-                    </div>
-                    <div class="space-y-1">
-                      <p class="text-base leading-6 font-medium text-gray-900">
-                        Он-лайн видеонаблюдение
-                      </p>
-                      <p class="text-sm leading-5 text-gray-400">
-                        Get detailed reports that will help you make more informed decisions
-                      </p>
-                    </div>
-                  </a>
+<!--                  <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">-->
+<!--                    <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-teal-800 hover:bg-teal-500 text-white sm:h-12 sm:w-12">-->
+<!--                      &lt;!&ndash; Heroicon name: refresh &ndash;&gt;-->
+<!--                      <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
+<!--                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />-->
+<!--                      </svg>-->
+<!--                    </div>-->
+<!--                    <div class="space-y-1">-->
+<!--                      <p class="text-base leading-6 font-medium text-gray-900">-->
+<!--                        Подъездный домофон-->
+<!--                      </p>-->
+<!--                      <p class="text-sm leading-5 text-gray-400">-->
+<!--                        Build strategic funnels that will drive your customers to convert-->
+<!--                      </p>-->
+<!--                    </div>-->
+<!--                  </a>-->
+<!--                  <a href="#" class="-m-3 p-3 flex items-start space-x-4 rounded-lg hover:bg-gray-50 transition ease-in-out duration-150">-->
+<!--                    <div class="flex-shrink-0 flex items-center justify-center h-10 w-10 rounded-md bg-teal-800 hover:bg-teal-500 text-white sm:h-12 sm:w-12">-->
+<!--                      &lt;!&ndash; Heroicon name: document-report &ndash;&gt;-->
+<!--                      <svg class="h-6 w-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">-->
+<!--                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 17v-2m3 2v-4m3 4v-6m2 10H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />-->
+<!--                      </svg>-->
+<!--                    </div>-->
+<!--                    <div class="space-y-1">-->
+<!--                      <p class="text-base leading-6 font-medium text-gray-900">-->
+<!--                        Он-лайн видеонаблюдение-->
+<!--                      </p>-->
+<!--                      <p class="text-sm leading-5 text-gray-400">-->
+<!--                        Get detailed reports that will help you make more informed decisions-->
+<!--                      </p>-->
+<!--                    </div>-->
+<!--                  </a>-->
                 </div>
                 <div class="p-5 bg-teal-800 sm:p-8 border-4 border-gray-300">
                   <a href="#" class="-m-3 p-3 flow-root space-y-1 rounded-md hover:bg-gray-100 transition ease-in-out duration-150">

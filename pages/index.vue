@@ -359,82 +359,82 @@
         <div class="flex flex-wrap -m-4">
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/3472142.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/1.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-              <p class="mt-1">$16.00</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Извещатель ИП 212-141(ДИП-141)</h2>
+              <p class="mt-1">330.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/532924001_ipr-513-10-izveschatel.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/2.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-              <p class="mt-1">$21.15</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Извещатель ИПР-513-10</h2>
+              <p class="mt-1">250.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/GV17.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/3.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-              <p class="mt-1">$12.00</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">CG17 -2G/G Панель охранной сигнализации</h2>
+              <p class="mt-1">9350.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Астра-5.jpeg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/4.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-              <p class="mt-1">$18.40</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Извещатель &quot;Астра - 5 А&quot;</h2>
+              <p class="mt-1">650.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/ИО%20102-20%20А2П.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/5.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">The Catalyzer</h2>
-              <p class="mt-1">$16.00</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Извещатель &quot;ИО 102-20/Б2П&quot;</h2>
+              <p class="mt-1">190.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Маяк%20-12%20КПМ.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/6.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">Shooting Stars</h2>
-              <p class="mt-1">$21.15</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Маяк-12С Световой оповещатель 12В</h2>
+              <p class="mt-1">140.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/РПБ-12.jpeg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/7.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">Neptune</h2>
-              <p class="mt-1">$12.00</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Блок бесперебойного питания ББП-20(Аккорд)</h2>
+              <p class="mt-1">950.00 р.</p>
             </div>
           </div>
           <div class="lg:w-1/4 md:w-1/2 p-4 w-full">
             <a class="block relative h-48 rounded overflow-hidden">
-              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/Шорох-2.jpg">
+              <img alt="ecommerce" class="object-cover object-center w-full h-full block" src="/liders/8.jpg">
             </a>
             <div class="mt-4">
               <h3 class="text-gray-500 text-xs tracking-widest title-font mb-1">Категория</h3>
-              <h2 class="text-gray-900 title-font text-lg font-medium">The 400 Blows</h2>
-              <p class="mt-1">$18.40</p>
+              <h2 class="text-gray-900 title-font text-lg font-medium">Извещатель &quot;Шорох-2&quot; 315-5/1</h2>
+              <p class="mt-1">1550.00 р.</p>
             </div>
           </div>
         </div>
